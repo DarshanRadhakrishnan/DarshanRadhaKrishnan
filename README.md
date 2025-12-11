@@ -1,9 +1,12 @@
-# 👋 Hi there, I'm  Darshan R!
+# 👋 Hi there, I'm Darshan R!
 
-🎓 Computer Science Engineering student at Amrita Vishwa Vidyapeetham, driven by a passion for building impactful solutions through code.
+🎓 Computer Science Engineering student at Amrita Vishwa Vidyapeetham, driven by a passion for building impactful solutions through code.  
 💡 Curious learner and team player, committed to continuous growth and leveraging technology to solve real-world challenges and make a difference.
 
+---
+
 ## 🛠️ SKILL SET
+
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -14,10 +17,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+---
 
 ### 🚀 Frameworks & Libraries
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -28,31 +30,47 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-5D3FD3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzI0JyBoZWlnaHQ9JzI0JyBmaWxsPScjNUQzRkQzJyByeD0nNCcvPjwvc3ZnPg==&logoColor=white)
-![Smith](https://img.shields.io/badge/Smith-0057FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjZmZmIj48cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgZmlsbD0iIzAwNTdGRiIvPjwvc3ZnPg==&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5D3FD3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzI0JyBoZWlnaHQ9JzI0JyBmaWxsPScjNUQzRkQzJyByeD0nNCcvPjwvc3ZnPg==)
+![Smith](https://img.shields.io/badge/Smith-0057FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBmaWxsPSIjZmZmIj48cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgZmlsbD0iIzAwNTdGRiIvPjwvc3ZnPg==)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
+---
 
 ### 🗄️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 🔧 Cloud, DevOps & Distributed Systems
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
 ### 🔧 Other Tools & Services
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-
-
+---
 
 ## 👀 I’m interested in:
 - 💻 Software Development  
-- 🤖 Generative AI & Agentic AI  
+- 🔙 Backend Development  
 - 🌐 Web & App Development  
-- ⚙️ Problem Solving & Data Structures
-- 🎨 Creative tech projects & innovation
+- 🤖 Generative AI & Agentic AI  
+- 📡 Networks  
+- 🧩 System Design  
+- ☁️ Cloud Computing  
+- ⚙️ Problem Solving & Data Structures  
+- 🎨 Creative tech projects & innovation  
 
+---
 
 ## 🤝 Open to Collaborations On:
 - 🌐 Full Stack Web & App Development  
@@ -60,18 +78,13 @@
 - 🔬 Research & Innovation-focused Tech Initiatives  
 - 📲 Real-world Utility & Social Impact Applications  
 
-
-
-
+---
 
 ## 📫 How to reach me:
-- ✉️ darshan2005rv@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/darshan-r23)
-
-
-
-
+- ✉️ **darshan2005rv@gmail.com**  
+- 💼 **[LinkedIn](https://www.linkedin.com/in/darshan-r23)**  
 
 ---
+
 > “The highest activity a human being can attain is learning for understanding, because to understand is to be free.”
 
