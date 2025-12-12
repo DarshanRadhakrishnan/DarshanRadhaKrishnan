@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</p>
+
 # 👋 Hi there, I'm Darshan R!
 
 🎓 Computer Science Engineering student at Amrita Vishwa Vidyapeetham, driven by a passion for building impactful solutions through code.  
@@ -87,4 +91,3 @@
 ---
 
 > “The highest activity a human being can attain is learning for understanding, because to understand is to be free.”
-
